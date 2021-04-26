@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <mobil>
+        <nama_mobil>Avanza</nama_mobil>
+        <merk_mobil>Toyota</merk_mobil>
+        <warna_mobil>Hitam</warna_mobil>
+        <harga_mobil>Rp.245.000.000</harga_mobil>
+    </mobil>
+     <mobil>
+        <nama_mobil>Brio</nama_mobil>
+        <merk_mobil>Honda</merk_mobil>
+        <warna_mobil>Kuning</warna_mobil>
+        <harga_mobil>Rp.240.000.000</harga_mobil>
+    </mobil>
+      <mobil>
+      <nama_mobil>Innova</nama_mobil>
+        <merk_mobil>Toyota</merk_mobil>
+        <warna_mobil>Putih</warna_mobil> 
+        <harga_mobil>Rp.235.000.000</harga_mobil>
+    </mobil>
+    <mobil>
+        <nama_mobil>Rush</nama_mobil>
+        <merk_mobil>Toyota</merk_mobil>
+        <warna_mobil>Putih</warna_mobil>
+        <harga_mobil>Rp.345.000.000</harga_mobil> 
+    </mobil>
+    <mobil>
+        <nama_mobil>Ayla</nama_mobil>
+        <merk_mobil>Daihatsu</merk_mobil>
+        <warna_mobil>Merah</warna_mobil> 
+        <harga_mobil>Rp.145.000.000</harga_mobil>
+    </mobil>
+</data>
